@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+.venv/
+make_git_history.py
+make_git_history.sh

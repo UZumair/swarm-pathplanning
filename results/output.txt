@@ -1,0 +1,57 @@
+============================================================
+Student : Your Name
+Seed    : 12345
+Grid    : 20x20   Obstacles: 77
+Start   : (11, 5)   Goal: (16, 16)
+============================================================
+
+--- PSO run 1 ---
+  iter   1/300  best fitness = 1036.676
+  iter  25/300  best fitness =   42.237
+  iter  50/300  best fitness =   42.237
+  iter  75/300  best fitness =   20.418
+  iter 100/300  best fitness =   19.540
+  iter 125/300  best fitness =   19.230
+  iter 150/300  best fitness =   19.051
+  iter 175/300  best fitness =   19.029
+  iter 200/300  best fitness =   19.026
+  iter 225/300  best fitness =   19.025
+  iter 250/300  best fitness =   19.025
+  iter 275/300  best fitness =   19.025
+  iter 300/300  best fitness =   19.025
+  run 1: length=19.025 collisions=0 fitness=19.025
+
+--- PSO run 2 ---
+  iter   1/300  best fitness =  777.980
+  iter  25/300  best fitness =   37.717
+  iter  50/300  best fitness =   24.498
+  iter  75/300  best fitness =   21.527
+  iter 100/300  best fitness =   20.335
+  iter 125/300  best fitness =   15.627
+  iter 150/300  best fitness =   15.098
+  iter 175/300  best fitness =   14.827
+  iter 200/300  best fitness =   14.670
+  iter 225/300  best fitness =   14.632
+  iter 250/300  best fitness =   14.623
+  iter 275/300  best fitness =   14.621
+  iter 300/300  best fitness =   14.621
+  run 2: length=14.621 collisions=0 fitness=14.621
+
+============================================================
+RESULT
+  Best path length : 14.621
+  Collisions       : 0  (OBSTACLE-FREE)
+  BFS grid-optimal : 16 steps (4-connected baseline)
+  Waypoints (x, y):
+     0: ( 11.50,   5.50)
+     1: ( 10.00,   8.09)
+     2: ( 10.00,   8.85)
+     3: ( 10.11,   9.15)
+     4: ( 10.24,   9.48)
+     5: ( 11.12,  11.69)
+     6: ( 12.04,  14.00)
+     7: ( 14.08,  16.00)
+     8: ( 16.27,  16.45)
+     9: ( 16.50,  16.50)
+============================================================
+Saved plots/results to ./results/
