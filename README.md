@@ -63,5 +63,5 @@ Outputs are written to `results/`.
 
 ![Final path](results/final_path.png)
 ![Convergence](results/convergence.png)
-![HAND WRITTEN FLOW DIAGRAM](results/flowdiagram.png)
+![HAND WRITTEN FLOW DIAGRAM](results/results/99ffb00b-b975-4079-93e7-0d73c2b57482.jpg)
 
